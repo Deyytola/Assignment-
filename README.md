@@ -1,4 +1,4 @@
-# ZURI-TASK
+# WEEK 5
 this is an assignment for week 5
 This repo contains **Zuri/I4G** cohort2 training assignments for weeks 3-5. Week 3 and week 4 tasks were merged into one branch ```main branch``` while week 5 was in a separate branch ```week-5```.
 
